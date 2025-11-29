@@ -12,8 +12,8 @@ This repository also includes a **YAZHERTZ variant** for users who prefer a QWER
 
 ## Contents
 
-- `Русский - YAZHERTY.klc` - Windows keyboard layout file for YAZHERTY
-- `Русский - YAZHERTZ.klc` - Windows keyboard layout file for YAZHERTZ
+- `keyboard_layout_YAZHERTY.klc` - Windows keyboard layout file for YAZHERTY
+- `keyboard_layout_YAZHERTZ.klc` - Windows keyboard layout file for YAZHERTZ
 - `russian_phonetic_YAZHERTY.pdf` - Visual layout graphic for YAZHERTY
 - `russian_phonetic_YAZHERTZ.pdf` - Visual layout graphic for YAZHERTZ
 
